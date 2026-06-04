@@ -1,0 +1,14 @@
+D:\Programming\C#\less2\hm1\WebSockets\Echo WebSocket-Server\bin\Debug\net10.0\Echo WebSocket-Server.exe
+D:\Programming\C#\less2\hm1\WebSockets\Echo WebSocket-Server\bin\Debug\net10.0\Echo WebSocket-Server.deps.json
+D:\Programming\C#\less2\hm1\WebSockets\Echo WebSocket-Server\bin\Debug\net10.0\Echo WebSocket-Server.runtimeconfig.json
+D:\Programming\C#\less2\hm1\WebSockets\Echo WebSocket-Server\bin\Debug\net10.0\Echo WebSocket-Server.dll
+D:\Programming\C#\less2\hm1\WebSockets\Echo WebSocket-Server\bin\Debug\net10.0\Echo WebSocket-Server.pdb
+D:\Programming\C#\less2\hm1\WebSockets\Echo WebSocket-Server\obj\Debug\net10.0\Echo WebSocket-Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\less2\hm1\WebSockets\Echo WebSocket-Server\obj\Debug\net10.0\Echo WebSocket-Server.AssemblyInfoInputs.cache
+D:\Programming\C#\less2\hm1\WebSockets\Echo WebSocket-Server\obj\Debug\net10.0\Echo WebSocket-Server.AssemblyInfo.cs
+D:\Programming\C#\less2\hm1\WebSockets\Echo WebSocket-Server\obj\Debug\net10.0\Echo WebSocket-Server.csproj.CoreCompileInputs.cache
+D:\Programming\C#\less2\hm1\WebSockets\Echo WebSocket-Server\obj\Debug\net10.0\Echo WebSocket-Server.dll
+D:\Programming\C#\less2\hm1\WebSockets\Echo WebSocket-Server\obj\Debug\net10.0\refint\Echo WebSocket-Server.dll
+D:\Programming\C#\less2\hm1\WebSockets\Echo WebSocket-Server\obj\Debug\net10.0\Echo WebSocket-Server.pdb
+D:\Programming\C#\less2\hm1\WebSockets\Echo WebSocket-Server\obj\Debug\net10.0\Echo WebSocket-Server.genruntimeconfig.cache
+D:\Programming\C#\less2\hm1\WebSockets\Echo WebSocket-Server\obj\Debug\net10.0\ref\Echo WebSocket-Server.dll

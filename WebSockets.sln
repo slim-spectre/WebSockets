@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Echo WebSocket-Server", "Echo WebSocket-Server\Echo WebSocket-Server.csproj", "{40720557-AEBE-43B5-89E4-543065778AA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EchoWebSocketClient", "EchoWebSocketClient\EchoWebSocketClient.csproj", "{08CE18B8-9BE3-4CD6-A763-6C6C116D0348}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40720557-AEBE-43B5-89E4-543065778AA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40720557-AEBE-43B5-89E4-543065778AA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40720557-AEBE-43B5-89E4-543065778AA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40720557-AEBE-43B5-89E4-543065778AA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08CE18B8-9BE3-4CD6-A763-6C6C116D0348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08CE18B8-9BE3-4CD6-A763-6C6C116D0348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08CE18B8-9BE3-4CD6-A763-6C6C116D0348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08CE18B8-9BE3-4CD6-A763-6C6C116D0348}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
